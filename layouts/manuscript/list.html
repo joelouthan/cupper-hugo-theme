@@ -2,7 +2,7 @@
   <main id="main">
     <h1>{{ .Title }}</h1>
     <ul class="patterns-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range .Pages.ByPublishDate }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
