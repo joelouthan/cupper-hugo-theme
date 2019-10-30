@@ -147,7 +147,7 @@ kbd {
 }
 pre,
 .file-tree {
-    overflow-x: auto;
+    overflow-x: visible;
     padding: 0.5rem;
     border: 0px solid;
 }
