@@ -148,8 +148,8 @@ kbd {
 pre,
 .file-tree {
     overflow-x: auto;
-    padding: 1.5rem;
-    border: 1px solid;
+    padding: 0.5rem;
+    border: 0px solid;
 }
 code {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
