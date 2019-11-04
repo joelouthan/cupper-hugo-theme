@@ -343,6 +343,9 @@ caption {
     width: 100%;
     max-width: 12rem;
 }
+.circular--square {
+  border-radius: 50%;
+}
 .library-desc {
     margin-top: 0.5rem;
     margin-left: auto;
