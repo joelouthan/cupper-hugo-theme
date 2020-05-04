@@ -5,6 +5,7 @@
     font-weight: bold;
     font-style: normal;
 }
+sup { vertical-align: top; font-size: 0.6em; }
 *,
 *::before,
 *::after {
