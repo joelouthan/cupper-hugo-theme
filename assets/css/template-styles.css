@@ -563,7 +563,7 @@ figcaption::before {
 /* Code blocks */
 pre[class*=language-] {
     background: none;
-    margin-top: 2.25rem;
+    margin-top: 0rem;
     margin-bottom: 0;
     overflow-y: hidden;
     overflow-x: auto;
@@ -591,7 +591,7 @@ pre[class*=language-] code * {
     counter-reset: annotation;
 }
 .highlight {
-    background: #ddd;
+    background: "#ddd";
     padding: 0.0625rem 0.33rem;
     border-radius: 0.5rem;
 }
