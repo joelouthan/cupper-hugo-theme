@@ -160,6 +160,7 @@ pre[class*="language-"] {
 
 div.code-toolbar {
 	position: relative;
+  background: #ddd;
 }
 
 div.code-toolbar > .toolbar {
